@@ -3,7 +3,7 @@
 ## Megalink Token
 
 - [BSC Mainnet : 0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99](https://bscscan.com/address/0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99)
-- [BSC Testnet : 0x23D9336Da5692F7cEe796f26F4f2770b5872737E](https://testnet.bscscan.com/token/0x23d9336da5692f7cee796f26f4f2770b5872737e)
+- [BSC Testnet : 0x17b37e08802a5bC982246EA4a4806fc65CC73bb5](https://testnet.bscscan.com/token/0x17b37e08802a5bC982246EA4a4806fc65CC73bb5)
 
 ### Megalink TokenLock
 
